@@ -3,7 +3,7 @@
 .DATA
 TEN DB 10
 num dw 0
-M0 DB "                 WELCOME    $"
+M0 DB "                 Aplikasi Perhitungan    $"
 M1 DB "Penambahan      :`A'$" 
 M2 DB "Pengurangan     :`S'$" 
 M10 DB "Pemfaktoran     :'F'$"
